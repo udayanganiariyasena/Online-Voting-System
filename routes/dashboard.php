@@ -40,14 +40,14 @@
 
             #profile{
                 background-color: white;
-                width: 32%;
+                width: 30%;
                 padding: 20px;
                 float: left;
             }
 
             #group{
                 background-color: white;
-                width: 60%;
+                width: 58%;
                 padding: 20px;
                 float: right;
             }
